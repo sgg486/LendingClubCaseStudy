@@ -21,7 +21,7 @@ The main goal of this analysis is to help Lending Club reduce credit losses. Thi
 ## **Risk Analysis:**
 - In this analysis, we identify risky customers based on the following criteria:
 - **Charge-Off Status:** Customers with loans that have been charged off are classified as risky. A charge-off indicates that the loan is unlikely to be repaid and is considered a default.
-- **Delinquent Accounts: ** Customers with any delinquent accounts in the past 24 months are considered risky. Delinquency in this timeframe suggests a pattern of financial instability.
+- **Delinquent Accounts:** Customers with any delinquent accounts in the past 24 months are considered risky. Delinquency in this timeframe suggests a pattern of financial instability.
 - **Public Derogatory Records:** Customers with any public derogatory records in the last 7 years are classified as risky. These records indicate significant financial distress.
 - **Collection and Recovery History:** Customers with a history of collections or recoveries are deemed risky. This history reflects past difficulties in repaying debts and indicates a higher likelihood of future issues.
 
